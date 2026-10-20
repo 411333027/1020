@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Food agent: photos and Excel records (DATA_DIR)
+data/
